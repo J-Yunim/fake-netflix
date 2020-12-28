@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fake-netflix/static/css/main.38242c41.chunk.css",
+    "main.js": "/fake-netflix/static/js/main.2ddcec66.chunk.js",
+    "main.js.map": "/fake-netflix/static/js/main.2ddcec66.chunk.js.map",
+    "runtime-main.js": "/fake-netflix/static/js/runtime-main.104947df.js",
+    "runtime-main.js.map": "/fake-netflix/static/js/runtime-main.104947df.js.map",
+    "static/js/2.52d9cea2.chunk.js": "/fake-netflix/static/js/2.52d9cea2.chunk.js",
+    "static/js/2.52d9cea2.chunk.js.map": "/fake-netflix/static/js/2.52d9cea2.chunk.js.map",
+    "static/js/3.b5fe0be0.chunk.js": "/fake-netflix/static/js/3.b5fe0be0.chunk.js",
+    "static/js/3.b5fe0be0.chunk.js.map": "/fake-netflix/static/js/3.b5fe0be0.chunk.js.map",
+    "index.html": "/fake-netflix/index.html",
+    "static/css/main.38242c41.chunk.css.map": "/fake-netflix/static/css/main.38242c41.chunk.css.map",
+    "static/js/2.52d9cea2.chunk.js.LICENSE.txt": "/fake-netflix/static/js/2.52d9cea2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.104947df.js",
+    "static/js/2.52d9cea2.chunk.js",
+    "static/css/main.38242c41.chunk.css",
+    "static/js/main.2ddcec66.chunk.js"
+  ]
+}
